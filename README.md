@@ -1,1 +1,2 @@
 # Web-Dev-Class-First-Project
+For this project, I decided to create a website which explains the idea and rules of a TTRPG I like called City of MIst, created by Son of Oak games. This website has 3 pages: a home page giving an overview of the game and the world it is set in, an explanation of the overall rules, and an explanation on how players can create their characters. I hope it turns out to be interesting and informative.
